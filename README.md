@@ -12,8 +12,8 @@ This is a simple quotes editor app built with a React frontend, a FastAPI backen
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sachinlathiya/quotes.git
-cd quotes
+git clone https://github.com/sachinlathiya/MagnifiQuotes.git
+cd MagnifiQuotes
 ```
 
 ### 2.Create Environment File
