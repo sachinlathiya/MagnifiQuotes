@@ -1,0 +1,36 @@
+# General
+.DS_Store
+*.log
+*.env
+*.pyc
+__pycache__/
+
+# Python
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+venv/
+env/
+.cache/
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+*.mo
+*.pot
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Node
+node_modules/
+yarn-error.log
+npm-debug.log
+
+
+# PostgreSQL
+postgres_data/
+.pgdata/
